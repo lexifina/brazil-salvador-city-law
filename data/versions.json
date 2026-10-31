@@ -1,0 +1,19 @@
+{
+ "country": "BR-BA-SALVADOR",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Salvador",
+   "title": "Lei Orgânica do Município de Salvador",
+   "url": "https://www.cms.ba.gov.br/lei-organica",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 322,
+     "source_url": "https://www.cms.ba.gov.br/uploads/3bdae368d1a3e255c81b7f262ba1bbf6_1709038424.pdf",
+     "sha256": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598"
+    }
+   ]
+  }
+ ]
+}
