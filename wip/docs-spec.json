@@ -1,0 +1,17 @@
+{
+ "name": "Salvador (city)",
+ "full": "the Município de Salvador, the city of Salvador (Bahia)",
+ "code": "BR-BA-SALVADOR",
+ "slug": "brazil-salvador-city",
+ "parent": "br-ba",
+ "official": "Diário Oficial do Município de Salvador",
+ "publisher": "Câmara Municipal de Salvador",
+ "site": "Câmara Municipal de Salvador, Lei Orgânica do Município",
+ "site_url": "https://www.cms.ba.gov.br/lei-organica",
+ "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `lei-organica/` | Lei Orgânica do Município de Salvador (1990), consolidated up to Emenda nº 41 | 1 |\n\n**Lei Orgânica only.** The Câmara publishes the Lei Orgânica as a consolidated edition; for the municipal Leis its site links only to a private aggregator, which this record does not use, so no ordinary or complementary law is in yet. The text is given **only as the edition's text in force**, credited to the Câmara as the oldest version available. State law is in [brazil-bahia-law](https://github.com/lexifina/brazil-bahia-law); federal law in [brazil-law](https://github.com/lexifina/brazil-law).",
+ "dates": "The one version is dated by the edition itself: the PDF \"Edição consolidada até a Emenda nº 41\" was created on 22 February 2024. Commits are at noon in Salvador.",
+ "built": "The PDF's text layer is read with pdftotext; the cover, the lists of members, the table of contents, page numbers, the amendment markers in front of a provision (\"(16)\") and the amendment notes under it (\"(16) Emenda à LOM nº 16\") are left out, and a paragraph broken across two pages is joined again. One file per Art.; headings stand above the first article under them; the Ato das Disposições Transitórias, numbered from 1 again, is `adt-*`.",
+ "limits": "Not a history: the Lei Orgânica as promulgated in 1990 and the wordings its 41 amendments replaced are not in the edition. The amendment markers are left out, so the record does not say which amendment changed which provision. The text is not the official version: only the Diário Oficial do Município is authoritative.",
+ "build": "built: the Lei Orgânica of Salvador, from the Câmara Municipal's consolidated edition",
+ "terms": ""
+}

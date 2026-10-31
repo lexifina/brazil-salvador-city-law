@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-salvador",
+  "code": "BR-BA-SALVADOR",
+  "name": "Salvador (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-salvador-city-law",
+  "build": "built: the Lei Orgânica of Salvador, from the Câmara Municipal's consolidated edition"
+}
